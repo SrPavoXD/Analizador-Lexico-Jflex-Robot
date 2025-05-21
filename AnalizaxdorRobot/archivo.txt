@@ -1,0 +1,19 @@
+Robot r1
+r1.iniciar
+r1.velocidad=10
+r1.base=5
+r1.cuerpo=3
+b1.base(90)
+b1.cuerpo(45)
+b1.garra(15)
+b1.velocidad(20)
+b1.abrirGarra()
+b1.cerrarGarra()
+b1.repetir(5)
+@
+#
+~
+¿
+¡
+$
+%
